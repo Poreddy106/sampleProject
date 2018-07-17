@@ -1,0 +1,10 @@
+Im using this file for confilts 
+me and sunil created dis file 
+sample merge
+
+line number 5 with sample
+<<<<<<< HEAD
+Im confliting this line and created in Local
+=======
+Im confliting this line and created in master
+>>>>>>> 44839abe8cc472e3dfeaca7bce23fd637de9a00b

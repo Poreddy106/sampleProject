@@ -1,0 +1,11 @@
+git config --global mergetool.diffmerge.cmd "C:/Program\ Files/SourceGear/Common/DiffMerge/sgdm.exe -merge -result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\""
+
+Staging this file Aside
+now im satshing
+I`m using this file for tagging version
+Java code:---git clone https://github.com/javahometech/my-app
+
+My Java code:--- git clone https://github.com/Poreddy106/My-App.git
+
+mv /var/lib/jenkins/workspace/My_FirstJob/target/myweb-0.0.1.war /var/lib/jenkins/workspace/My_FirstJob/target/myweb.war
+
